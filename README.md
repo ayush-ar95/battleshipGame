@@ -9,7 +9,7 @@ This project is a web-based Battleship game implemented using HTML, CSS, and Jav
 2. Dialog Box: Feedback through dialog boxes.
 3. Responsive Design: The application layout is responsive and works well on different screen sizes.
 
-## Game Rules
+### Game Rules
 - The game consists of a grid with hidden ships.
 - Click on the grid items to reveal the hidden ships.
 - There are 5 ships hidden in the game.
