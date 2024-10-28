@@ -26,12 +26,10 @@ const eventHandler = (event) => {
         if (countShip === 5) {
             pElement.textContent = "Congratulations! You Won🏆";
             pElement.style.color = "teal";
-            dialogElement.style.border = "2px solid teal";
         }
         else {
             pElement.textContent = "You Lose! Try Again 😧";
             pElement.style.color = "FireBrick";
-            dialogElement.style.border = "2px solid FireBrick"
         }
         dialogElement.show();
     }
